@@ -1,0 +1,101 @@
+sku_id,product_name,category,unit_price
+1,Laptop Pro 15,Electronics,35000
+2,Smartphone X,Electronics,22000
+3,Wireless Mouse,Accessories,800
+4,Mechanical Keyboard,Accessories,2500
+5,"Monitor 27"" 4K",Electronics,12000
+6,USB-C Hub,Accessories,1200
+7,Noise Cancelling Headphones,Audio,6500
+8,Bluetooth Speaker,Audio,3000
+9,External SSD 1TB,Storage,4500
+10,Gaming Chair,Furniture,8500
+11,Tablet Air,Electronics,18000
+12,Smart Watch v2,Electronics,9500
+13,Power Bank 20k,Accessories,1500
+14,Web Camera HD,Accessories,2200
+15,Gaming Mouse Pad,Accessories,600
+16,Microphone Studio,Audio,4800
+17,Graphics Tablet,Electronics,7200
+18,Internal HDD 2TB,Storage,2800
+19,RAM DDR4 16GB,Components,2100
+20,CPU Cooler RGB,Components,1400
+21,PC Case ATX,Components,3200
+22,Power Supply 750W,Components,3800
+23,Wi-Fi Router AX,Networking,4200
+24,Ethernet Cable 10m,Networking,350
+25,Laptop Stand,Accessories,950
+26,Desktop Lamp LED,Furniture,1100
+27,Office Desk,Furniture,5500
+28,HDMI Cable 2m,Accessories,450
+29,SD Card 128GB,Storage,750
+30,Printer Laser,Electronics,8800
+31,Scanner Flatbed,Electronics,5400
+32,Cartridge Black,Supplies,1300
+33,Photo Paper A4,Supplies,400
+34,VR Headset,Electronics,15500
+35,Gamepad Wireless,Accessories,2400
+36,Steering Wheel PC,Accessories,9200
+37,Soundbar 2.1,Audio,7800
+38,Projector 1080p,Electronics,14000
+39,Projection Screen,Accessories,3200
+40,Electric Scooter,Transport,19500
+41,Smart Bulb RGB,Smart Home,550
+42,Smart Plug,Smart Home,480
+43,IP Camera,Smart Home,2600
+44,Robot Vacuum,Smart Home,11500
+45,Air Purifier,Appliances,6700
+46,Electric Kettle,Appliances,1200
+47,Coffee Machine,Appliances,14500
+48,Toaster 2-Slice,Appliances,950
+49,Blender 1000W,Appliances,2800
+50,Microwave Oven,Appliances,4200
+51,Hair Dryer,Personal Care,1800
+52,Electric Shaver,Personal Care,3400
+53,Smart Scale,Personal Care,1100
+54,Yoga Mat,Sport,850
+55,Dumbbells 5kg,Sport,1200
+56,Fitness Tracker,Sport,1900
+57,"Backpack 15""",Bags,2200
+58,Messenger Bag,Bags,1600
+59,Sleeve for Laptop,Bags,750
+60,Hard Shell Case,Bags,1100
+61,Flash Drive 64GB,Storage,350
+62,Graphics Card GTX,Components,16500
+63,Motherboard B550,Components,5200
+64,SSD NVMe 500GB,Storage,1900
+65,Case Fan 120mm,Components,450
+66,Thermal Paste,Components,250
+67,Card Reader,Accessories,580
+68,Docking Station,Accessories,4100
+69,UPS 1000VA,Electronics,5900
+70,Voltage Regulator,Electronics,1800
+71,Drawing Pen,Accessories,1300
+72,Monitor Arm,Furniture,2100
+73,Vertical Mouse,Accessories,1600
+74,Bluetooth Adapter,Accessories,420
+75,External HDD 4TB,Storage,4800
+76,NAS Storage,Storage,12500
+77,Network Switch,Networking,1450
+78,Patch Panel,Networking,950
+79,Rack Cabinet,Networking,7200
+80,Fiber Optic Cable,Networking,600
+81,Digital Camera,Electronics,24000
+82,Camera Lens 50mm,Electronics,11000
+83,Camera Tripod,Accessories,3100
+84,Camera Bag,Bags,1400
+85,Video Doorbell,Smart Home,4200
+86,Smart Door Lock,Smart Home,8900
+87,Water Leak Sensor,Smart Home,750
+88,Humidity Sensor,Smart Home,620
+89,E-book Reader,Electronics,5600
+90,Protective Film,Supplies,250
+91,Screen Cleaner,Supplies,180
+92,Compressed Air,Supplies,320
+93,Desk Organizer,Office,550
+94,Stapler Heavy Duty,Office,420
+95,Paper Shredder,Office,3800
+96,Calculator Scientific,Office,850
+97,Whiteboard 90x60,Office,1600
+98,Markers Set 4pcs,Office,220
+99,Office Scissors,Office,150
+100,Sticky Notes Pack,Office,120
